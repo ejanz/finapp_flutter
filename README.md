@@ -1,6 +1,6 @@
 # Drawer And BottomBar
 
-A new Flutter project created with [FlutLab](https://flutlab.io)
+## A new Flutter project created with [FlutLab](https://flutlab.io)
 
 ### Getting Started: FlutLab - Flutter Online IDE
 
@@ -8,7 +8,7 @@ A new Flutter project created with [FlutLab](https://flutlab.io)
 - Discover a marketplace of ready-to-use Flutter projects [FlutLab Widget Bay](https://widgetbay.flutlab.io/)
 - Join the discussion and conversation on [FlutLab Facebook Group](https://www.facebook.com/groups/flutlab/)
 
-If you have some questions regarding FlutLab, you can ask on [FlutLab FAQ](https://faq.flutlab.io/)
+## If you have some questions regarding FlutLab, you can ask on [FlutLab FAQ](https://faq.flutlab.io/)
 
 ### Getting Started: Flutter
 
